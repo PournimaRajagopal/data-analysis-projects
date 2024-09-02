@@ -9,6 +9,8 @@ flavors = {
   'garlic' : 0.05
 }
 
+
+## test
 ## Set a variable called choice to the flavor you want to search for.
 
 ## Use an if statement to check if choice is in the flavors dictionary.
